@@ -35,5 +35,5 @@ function mergeSort (array) {
     }
 }
 
-const unsortedArray = [];
+const unsortedArray = [2,3,1,6,7,4,8,5,9];
 console.log(mergeSort(unsortedArray));
